@@ -1,11 +1,5 @@
 
-<b>Мy best Dashbords :</b><br/>
-
-<td><b>4</b></td>
-<td><a href="https://public.tableau.com/app/profile/baruch.spinoza/viz/uniteconomy/Dashboard1?publish=yes" target="_blank"><b>Food Delivery Service Marketing Strategy Effectiveness</b></a></td>
-<td>Creating a food delivery service marketing strategy effectiveness dashboard involves monitoring and analyzing various key performance indicators (KPIs) to determine the success and efficiency of your marketing efforts.</td>
-<tr>
-  
+<b>Мy best Dashbords :</b><br/>  
 <br>
 comming Soon .....
 
@@ -33,5 +27,9 @@ Projects Description
 <td><a href="https://public.tableau.com/app/profile/baruch.spinoza/viz/UsersInteractionsDashbord/Dashboard1" target="_blank"><b>Users Interactions with Yandex.Zen Cards</b></a>
 <td>Yandex.Zen is a content recommendation platform and service, and it often uses "Cards" to present content to its users. These cards typically contain articles, videos, or other content recommendations. To understand user interactions with Yandex.Zen Cards, a dashboard or analytics platform can be used to track and analyze various key performance indicators (KPIs)</td>
 <tr>
-
+  
+<td><b>4</b></td>
+<td><a href="https://public.tableau.com/app/profile/baruch.spinoza/viz/uniteconomy/Dashboard1?publish=yes" target="_blank"><b>Food Delivery Service Marketing Strategy Effectiveness</b></a></td>
+<td>Creating a food delivery service marketing strategy effectiveness dashboard involves monitoring and analyzing various key performance indicators (KPIs) to determine the success and efficiency of your marketing efforts.</td>
+<tr>
 </table>
